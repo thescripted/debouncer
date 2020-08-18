@@ -1,4 +1,4 @@
-# thescripted/debouncer - Another debounce file.
+# somethingscripted/debouncer - Another debounce file.
 
 ## About The Project
 
@@ -25,13 +25,13 @@ debouncedUpdater(3); //simpleArray = [6, 7, 8, 9, 10]
 1. Install NPM Package
 
 ```sh
-npm install @thescripted/debouncer
+npm install @somethingscripted/debouncer
 ```
 
 2. Import file into your project
 
 ```JS
-import debouncer from '@thescripted/debouncer';
+import debouncer from '@somethingscripted/debouncer';
 
 function fn(...args) {
     //...
