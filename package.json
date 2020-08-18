@@ -1,6 +1,6 @@
 {
   "name": "@somethingscripted/debouncer",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "description": "A Simple Debounce Method in JavaScript",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "javascript"
   ],
   "author": "Benjamin Kinga",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "jest": "^26.4.0"
   }

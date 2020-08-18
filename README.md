@@ -30,12 +30,12 @@ npm install @somethingscripted/debouncer
 
 2. Import file into your project
 
-```JS
+```javascript
 import debouncer from '@somethingscripted/debouncer';
 
 function fn(...args) {
-    //...
-};
+  //...
+}
 
 debounce = debouncer(fn, 100);
 debounce(args);
