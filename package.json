@@ -1,13 +1,16 @@
 {
-  "name": "debouncer",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@thescripted/debouncer",
+  "version": "0.1.0",
+  "description": "A Simple Debounce Method in JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "debounce",
+    "javascript"
+  ],
+  "author": "Benjamin Kinga",
   "license": "ISC",
   "dependencies": {
     "jest": "^26.4.0"

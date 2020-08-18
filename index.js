@@ -1,10 +1,10 @@
 /**
  * A performance method to limit calls to the provided function.
  * The debouncer will ignore any subsequent calls to the provided function and reset the timer
- * if the function has already been called within the provided time period.
+ * if the function has already been called within the provided time period. (i.e. leading debouncer)
  *
  * @param {Function} fn Function to enable debouncing
- * @param {number} timer Timer for which the debouncer will wait
+ * @param {Number} timer timer (in milliseconds) for which the debouncer will wait
  * @returns {Function} A function that will automatically be debounced
  */
 
